@@ -23,15 +23,3 @@ A Python-based voice-controlled emergency assistant that detects distress voice 
 2. Install requirements:
    ```bash
    pip install -r requirements.txt
-
-##Run the assistant:
-python main.py
-
-##Output Example
-"Emergency detected. Sending WhatsApp alert now."
-
-##Location Example
-https://www.google.com/maps?q=17.3850,78.4867
-
-##Emergency Logs
-Stored in emergency_logs.txt
