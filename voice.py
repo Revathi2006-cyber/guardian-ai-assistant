@@ -4,7 +4,7 @@ import scipy.io.wavfile as wav
 import speech_recognition as sr
 import pyttsx3
 import os
-from rapidfuzz import fuzz  # ✅ NLP fuzzy matching
+from rapidfuzz import fuzz  # NLP fuzzy matching
 
 # Initialize TTS engine
 engine = pyttsx3.init()
@@ -62,7 +62,7 @@ def detect_emergency(command):
             return True
     return False
 
-# 🔧 MAIN function for testing
+# MAIN function for testing
 if __name__ == "__main__":
     speak("Guardian Assistant is ready. Please speak now.")
     user_command = listen()
