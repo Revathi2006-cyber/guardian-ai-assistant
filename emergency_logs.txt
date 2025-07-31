@@ -1,0 +1,99 @@
+Time: 2025-07-03 20:44:20.977833
+Voice Command: please help me i am in danger
+Location: https://www.google.com/maps?q=17.3840,78.4564
+----------------------------------------
+Time: 2025-07-03 20:47:21.432941
+Voice Command: i am endangered
+Location: https://www.google.com/maps?q=17.3840,78.4564
+----------------------------------------
+Time: 2025-07-03 20:55:21.609174
+Voice Command: i am in danger
+Location: https://www.google.com/maps?q=17.3840,78.4564
+----------------------------------------
+Time: 2025-07-04 11:34:23.661155
+Voice Command: i am in danger
+Location: https://www.google.com/maps?q=17.3840,78.4564
+----------------------------------------
+Time: 2025-07-04 11:50:20.890087
+Voice Command: help me please
+Time: 2025-07-04 11:56:21.098504
+Voice Command: help me please i am in danger
+Time: 2025-07-04 11:58:21.991001
+Voice Command: i am in danger
+Time: 2025-07-04 12:05:21.224380
+Voice Command: please help me danger
+Location: https://www.google.com/maps?q=17.3840,78.4564
+----------------------------------------
+[2025-07-04 12:06:48]
+Emergency Triggered!
+Location:
+https://www.google.com/maps?q=17.3840,78.4564
+--------------------------------------------------
+Time: 2025-07-05 14:59:03.744636
+Voice Command: help me
+Location: https://maps.google.com/?q=17.385044,78.486671
+----------------------------------------
+Time: 2025-07-05 15:20:04.985190
+Voice Command: help me please
+Location: https://maps.google.com/?q=12.9716,77.5946
+----------------------------------------
+Time: 2025-07-05 15:25:05.081278
+Voice Command: help me please
+Location: https://maps.google.com/?q=12.9716,77.5946
+----------------------------------------
+Time: 2025-07-05 15:28:05.294313
+Voice Command: help me please
+Location: https://maps.google.com/?q=12.9716,77.5946
+----------------------------------------
+Time: 2025-07-05 15:34:04.047970
+Voice Command: help me please
+Location: https://maps.google.com/?q=12.9716,77.5946
+----------------------------------------
+Time: 2025-07-05 15:45:04.478831
+Voice Command: help me please i
+Location: https://www.google.com/maps?q=17.3840,78.4564
+----------------------------------------
+Time: 2025-07-05 15:47:04.221712
+Voice Command: help me please i
+Location: https://maps.google.com/?q=17.3840,78.4564
+----------------------------------------
+Time: 2025-07-05 15:47:04.242713
+Voice Command: help me please i
+Location: https://maps.google.com/?q=17.3840,78.4564
+----------------------------------------
+Time: 2025-07-05 15:47:04.445709
+Voice Command: please help me i am in danger
+Location: https://www.google.com/maps?q=17.3840,78.4564
+----------------------------------------
+Time: 2025-07-05 15:58:04.761898
+Voice Command: please help me i am in danger
+Location: https://maps.google.com/?q=17.3840,78.4564
+----------------------------------------
+Time: 2025-07-05 16:25:21.692651
+Voice Command: google i am danger
+Location: https://www.google.com/maps?q=17.3840,78.4564
+----------------------------------------
+Time: 2025-07-05 16:45:02.802811
+Voice Command: i am in danger
+Location: https://www.google.com/maps?q=17.3840,78.4564
+----------------------------------------
+Time: 2025-07-05 16:49:36.581799
+Voice Command: can you help me i am in danger
+Location: https://www.google.com/maps?q=17.3840,78.4564
+----------------------------------------
+Time: 2025-07-05 16:52:37.260864
+Voice Command: please help me i am in danger
+Location: https://www.google.com/maps?q=17.3840,78.4564
+----------------------------------------
+Time: 2025-07-05 16:55:30.908140
+Voice Command: please help me i am in danger
+Location: https://www.google.com/maps?q=17.3840,78.4564
+----------------------------------------
+Time: 2025-07-05 17:16:00.966342
+Voice Command: help me please
+Location: https://maps.google.com/?q=17.385044,78.486671
+----------------------------------------
+Time: 2025-07-30 16:13:11.886476
+Voice Command: family please help
+Location: https://www.google.com/maps?q=17.3840,78.4564
+----------------------------------------
